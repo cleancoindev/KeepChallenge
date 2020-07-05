@@ -2,7 +2,9 @@
 
 KeepChallenge is from Protect privacy hackathon Of KeepNetwork from Gitcoin. I joined and start work late on this challenge. So, It is really intresting to create bridge between bitcoin and ethereum chain. 
 
-In this task, I didn't build anything specifically. But I want to play with this protocol that how can I integrate `tbtc` in ethereum. So, I can integrate in my existing project like other erc20s. So, I played with the existing repo on github and its really useful and worth it. `And one Usecase comes in my mind that I have explain below. Please read below this.`
+In this task, I didn't build anything specifically. But I want to play and want to dirty my hand with this protocol that how can I integrate `tbtc` in ethereum. So, I can integrate in my existing project like other erc20s. So, I played with the existing repo on github and its really useful and worth it. 
+
+`And one Usecase comes in my mind that I have explain below. Please read below this usecase.`
 
 ### UseCase Discuss that I can build.
 
