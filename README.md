@@ -12,7 +12,7 @@ If you know, Uniswap work with pairs like ERC20-ERC20 or ERC20-ETH. So, If you w
 
 For e.g. From the platform Send 1 tbtc to pair(e.g. tbtc/eth) and it will execute a single transaction tbtc -> eth swap for you if the slippage rate <=0.5%(thresold) between liquidity reserve of uniswap and tbtc/ETH price feed from any oracle protocol(like, Uniswap-oracle or chainlink oracles).
 
-Even using platform, Liquidity providers can manage pools like they can deposit or sell liquidity of tbtc to earn interests.
+Even using platform, Liquidity providers can manage pools like they can deposit or sell liquidity of `tbtc to earn interests.`
 
 `I didn't start to work on this. But I want to share this thoughts with you. And I will surely work on this statement.`
 
